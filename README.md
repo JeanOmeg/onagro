@@ -4,6 +4,10 @@ Este repositório existe **apenas para hospedar, via GitHub Pages, o MVP de test
 
 Não é o repositório de desenvolvimento do jogo: aqui fica somente o build já compilado e pronto para ser servido como site estático.
 
+## Jogar
+
+🎮 Teste o jogo em: **https://jeanomeg.github.io/onagro/**
+
 ## Estrutura
 
 - `docs/` — build final do jogo (HTML, JS, imagens e áudios). É a pasta publicada pelo GitHub Pages.
